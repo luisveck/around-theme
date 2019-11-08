@@ -1,1 +1,1 @@
-"#Around Theme v1" 
+#Around Theme v1
